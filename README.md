@@ -122,12 +122,14 @@ Contributions are welcome! Please follow these steps:
    ```bash
    git push origin feature/YourFeature
    ```
+
+
+5. **Open a pull request**.
+
 ## 👨‍💻 Author
 
 * **Krushna Mengal**
   GitHub: [@krushna001m](https://github.com/krushna001m)
 
 
-
-5. **Open a pull request**.
 
