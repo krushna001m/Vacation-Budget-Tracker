@@ -13,9 +13,6 @@ A web application to help users plan and monitor their vacation expenses effecti
 ## 🌍 Live Demo
 👉 [**View**](https://v0-vacation-budget-tracker.vercel.app/)  
 
-Here's a clear and concise **"Purpose"** section you can add to your `README.md` file:
-
----
 
 ## 🎯 Purpose of the Project
 
