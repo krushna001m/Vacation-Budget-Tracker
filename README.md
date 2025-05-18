@@ -13,6 +13,21 @@ A web application to help users plan and monitor their vacation expenses effecti
 ## 🌍 Live Demo
 👉 [**View**](https://v0-vacation-budget-tracker.vercel.app/)  
 
+Here's a clear and concise **"Purpose"** section you can add to your `README.md` file:
+
+---
+
+## 🎯 Purpose of the Project
+
+The **Vacation Budget Tracker** was developed to simplify the process of managing expenses during travel. Many travelers struggle to keep track of their spending, which can lead to overspending and financial stress. This tool allows users to:
+
+* **Plan ahead** by setting a realistic budget for their trip.
+* **Categorize and log expenses** in real time.
+* **Monitor remaining funds** and adjust spending accordingly.
+* **Improve financial awareness** and promote better money management during vacations.
+
+Whether you're traveling solo, with friends, or family — this app helps ensure your trip stays within budget and stress-free.
+
 
 ## 🛠️ Tech Stack
 
@@ -110,6 +125,10 @@ Contributions are welcome! Please follow these steps:
    ```bash
    git push origin feature/YourFeature
    ```
+## 👨‍💻 Author
+
+* **Krushna Mengal**
+  GitHub: [@krushna001m](https://github.com/krushna001m)
 
 
 
