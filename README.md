@@ -1,7 +1,6 @@
 
 # ✈️Vacation Budget Tracker
 
-A web application to help users plan and monitor their vacation expenses effectively. Built with Next.js and Tailwind CSS, this tool offers an intuitive interface for budgeting and tracking travel-related costs.
 
 ## ✨ Features
 
