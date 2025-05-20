@@ -3,12 +3,6 @@
 
 A web application to help users plan and monitor their vacation expenses effectively. Built with Next.js and Tailwind CSS, this tool offers an intuitive interface for budgeting and tracking travel-related costs.
 
-## ✨ Features
-
-* **Budget Planning**: Set a total budget for your vacation and allocate funds to different categories.
-* **Expense Tracking**: Log expenses across various categories such as accommodation, food, transportation, and activities.
-* **Real-Time Updates**: Monitor your spending in real-time to ensure you stay within budget.
-* **Responsive Design**: Enjoy a seamless experience across devices with a mobile-friendly interface.([GitHub][1])
 
 ## 🌍 Live Demo
 👉 [**View**](https://v0-vacation-budget-tracker.vercel.app/)  
@@ -24,6 +18,13 @@ The **Vacation Budget Tracker** was developed to simplify the process of managin
 * **Improve financial awareness** and promote better money management during vacations.
 
 Whether you're traveling solo, with friends, or family — this app helps ensure your trip stays within budget and stress-free.
+
+## ✨ Features
+
+* **Budget Planning**: Set a total budget for your vacation and allocate funds to different categories.
+* **Expense Tracking**: Log expenses across various categories such as accommodation, food, transportation, and activities.
+* **Real-Time Updates**: Monitor your spending in real-time to ensure you stay within budget.
+* **Responsive Design**: Enjoy a seamless experience across devices with a mobile-friendly interface.([GitHub][1])
 
 
 ## 🛠️ Tech Stack
